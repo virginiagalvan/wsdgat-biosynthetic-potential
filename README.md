@@ -25,30 +25,6 @@ The oleochemical industry (biofuels, lubricants, bioplastics) needs new biocatal
 
 ---
 
-## Key Figures
-
-<p align="center">
-  <img src="figures/fig0_sampling_sites_map.png" width="480" alt="Sampling sites map"><br>
-  <em>Sampling sites — 13 local metagenomes, Ushuaia Bay and Potter Cove (Notebook 01)</em>
-</p>
-
-<p align="center">
-  <img src="figures/figure4_marine_vs_terrestrial_comparison.png" width="480" alt="Marine vs terrestrial comparison"><br>
-  <em>Relative abundance, marine vs. terrestrial metagenomes (Notebook 05)</em>
-</p>
-
-<p align="center">
-  <img src="figures/figure5_malaspina_paired_comparison.png" width="480" alt="Malaspina free-living vs particle-attached"><br>
-  <em>Free-living vs. particle-attached fractions, Malaspina expedition (Notebook 06)</em>
-</p>
-
-<p align="center">
-  <img src="figures/figure6_bacterial_genomes_pf03007_by_phylum.png" width="480" alt="Bacterial genomes by phylum"><br>
-  <em>PF03007 across 18,392 bacterial genomes, by phylum (Notebook 07)</em>
-</p>
-
----
-
 ## Repository Structure
 
 ```
@@ -130,4 +106,55 @@ Subtidal sediment metagenomes are publicly available at the **Integrated Microbi
 | ANT01 | Antarctic | S1 | Subtidal sediments | 3300000119 |
 | ANT02 | Antarctic | S1 | Subtidal sediments | 3300000136 |
 | ANT03 | Antarctic | S1 | Subtidal sediments | 3300000135 |
-| ANT04 | Antarctic | S1 | Subtida
+| ANT04 | Antarctic | S1 | Subtidal sediments | 3300000129 |
+| ANT05 | Antarctic | S1 | Subtidal sediments | 3300000132 |
+| ANT06 | Antarctic | S1 | Subtidal sediments | 3300000123 |
+| OR07 | Subantarctic | OR | Intertidal sediments | — (see note) |
+
+> **OR07:** in-house metagenomic library from a chronically hydrocarbon-contaminated intertidal site (Bahía Ushuaia, Argentina). Raw sequence data are not publicly available. WS/DGAT homolog sequences identified from this library were deposited in GenBank under accession numbers **OP731433–OP731569**.
+
+### Where the counts come from
+
+Gene counts were obtained by searching each metagenome for Pfam domain hits via **IMG/M**:
+
+- **PF03007** (WS/DGAT domain): identifies putative neutral lipid biosynthesis genes
+- **12 single-copy ribosomal protein domains** (PF00189, PF00252, PF00453, PF00542, PF00831, PF00886, PF01016, PF01196, PF01245, PF01250, PF01281, PF01649): used as reference markers to normalize for differences in metagenome size and sequencing depth
+
+For assembled metagenomes, estimated abundances are corrected by scaffold read depth (as reported by IMG/M). **Relative abundance** is computed as the mean of 12 ratios (WS/DGAT estimated count / ribosomal marker estimated count), one per marker gene.
+
+---
+
+## Methods Summary
+
+- **Gene identification:** Pfam domain search (PF03007 + 12 ribosomal markers) via IMG/M
+- **Taxonomy:** BLASTp (top 100 hits, nr database) + weighted LCA via MEGAN6
+- **Phylogenetics:** Multiple sequence alignment (Jalview) + maximum likelihood tree (MEGA-X); visualized in Python
+- **Genome-scale survey:** function-based search (PF03007) across all bacterial genomes in IMG/M; presence, copy number, and taxonomic distribution at phylum/class level
+- **Statistics:** Mann-Whitney U test; Wilcoxon signed-rank test (paired designs); Spearman correlation
+- **Tools:** IMG/M, MEGAN6, MEGA-X, Jalview, Python (pandas, scipy, matplotlib, Biopython, geopandas)
+
+---
+
+## Related Publication
+
+**Galván et al. (2023).** High potential for the biosynthesis of neutral lipid storage compounds in chronically-polluted subantarctic sediments. *PLOS ONE.*
+https://doi.org/10.1371/journal.pone.0288509
+
+---
+
+## How to Run
+
+```bash
+git clone https://github.com/virginiagalvan/wsdgat-biosynthetic-potential.git
+cd wsdgat-biosynthetic-potential
+pip install pandas scipy matplotlib openpyxl biopython
+jupyter notebook notebooks/01_local_metagenomes_abundance.ipynb
+```
+
+**Google Colab:** open any notebook in Colab and upload the required files from `data/` when prompted.
+
+---
+
+## Author
+
+**Virginia Galván, PhD** · Genomic Data Scientist | Bioinformatics
