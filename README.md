@@ -25,6 +25,30 @@ The oleochemical industry (biofuels, lubricants, bioplastics) needs new biocatal
 
 ---
 
+## Key Figures
+
+<p align="center">
+  <img src="figures/fig0_sampling_sites_map.png" width="480" alt="Sampling sites map"><br>
+  <em>Sampling sites — 13 local metagenomes, Ushuaia Bay and Potter Cove (Notebook 01)</em>
+</p>
+
+<p align="center">
+  <img src="figures/figure4_marine_vs_terrestrial_comparison.png" width="480" alt="Marine vs terrestrial comparison"><br>
+  <em>Relative abundance, marine vs. terrestrial metagenomes (Notebook 05)</em>
+</p>
+
+<p align="center">
+  <img src="figures/figure5_malaspina_paired_comparison.png" width="480" alt="Malaspina free-living vs particle-attached"><br>
+  <em>Free-living vs. particle-attached fractions, Malaspina expedition (Notebook 06)</em>
+</p>
+
+<p align="center">
+  <img src="figures/figure6_bacterial_genomes_pf03007_by_phylum.png" width="480" alt="Bacterial genomes by phylum"><br>
+  <em>PF03007 across 18,392 bacterial genomes, by phylum (Notebook 07)</em>
+</p>
+
+---
+
 ## Repository Structure
 
 ```
@@ -106,16 +130,4 @@ Subtidal sediment metagenomes are publicly available at the **Integrated Microbi
 | ANT01 | Antarctic | S1 | Subtidal sediments | 3300000119 |
 | ANT02 | Antarctic | S1 | Subtidal sediments | 3300000136 |
 | ANT03 | Antarctic | S1 | Subtidal sediments | 3300000135 |
-| ANT04 | Antarctic | S1 | Subtidal sediments | 3300000129 |
-| ANT05 | Antarctic | S1 | Subtidal sediments | 3300000132 |
-| ANT06 | Antarctic | S1 | Subtidal sediments | 3300000123 |
-| OR07 | Subantarctic | OR | Intertidal sediments | — (see note) |
-
-> **OR07:** in-house metagenomic library from a chronically hydrocarbon-contaminated intertidal site (Bahía Ushuaia, Argentina). Raw sequence data are not publicly available. WS/DGAT homolog sequences identified from this library were deposited in GenBank under accession numbers **OP731433–OP731569**.
-
-### Where the counts come from
-
-Gene counts were obtained by searching each metagenome for Pfam domain hits via **IMG/M**:
-
-- **PF03007** (WS/DGAT domain): identifies putative neutral lipid biosynthesis genes
-- **12 single-copy ribosomal protein domains** (PF00189, PF00252, PF00453, PF00542, PF00831, PF00886, PF01016, PF01196, PF01245, PF01250, PF01281, PF01649): used as reference markers to n
+| ANT04 | Antarctic | S1 | Subtida
