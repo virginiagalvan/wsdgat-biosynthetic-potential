@@ -56,20 +56,20 @@ wsdgat-biosynthetic-potential/
 │   ├── 06_malaspina_freeliving_vs_particle.ipynb   # Free-living vs particle-attached fractions
 │   └── 07_bacterial_genomes_survey.ipynb           # PF03007 distribution across bacterial genomes
 ├── figures/
-│   ├── fig0_sampling_sites_map.png / .svg
+│   ├── fig0_sampling_sites_map.png
 │   ├── fig1_relative_abundance.png
 │   ├── fig2_spearman_correlation.png
 │   ├── fig1_taxonomic_composition.png
 │   ├── fig2_regional_comparison.png
 │   ├── fig1_actinomycetota_tree.png
 │   ├── fig2_composition_summary.png
-│   ├── figure1_global_marine_relative_abundance_ranked.png / .svg
+│   ├── figure1_global_marine_relative_abundance_ranked.png
 │   ├── figure2_global_marine_metagenomes_map.html
-│   ├── figure3_terrestrial_relative_abundance_ranked.png / .svg
-│   ├── figure4_marine_vs_terrestrial_comparison.png / .svg
-│   ├── figure5_malaspina_paired_comparison.png / .svg
-│   ├── figure6_bacterial_genomes_pf03007_by_phylum.png / .svg
-│   └── figure7_bacterial_genomes_pf03007_by_class.png / .svg
+│   ├── figure3_terrestrial_relative_abundance_ranked.png
+│   ├── figure4_marine_vs_terrestrial_comparison.png
+│   ├── figure5_malaspina_paired_comparison.png
+│   ├── figure6_bacterial_genomes_pf03007_by_phylum.png
+│   └── figure7_bacterial_genomes_pf03007_by_class.png
 └── README.md
 ```
 
