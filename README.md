@@ -64,7 +64,7 @@ wsdgat-biosynthetic-potential/
 │   ├── fig1_actinomycetota_tree.png
 │   ├── fig2_composition_summary.png
 │   ├── figure1_global_marine_relative_abundance_ranked.png
-│   ├── figure2_global_marine_metagenomes_map.html
+│   ├── figure2_global_marine_metagenomes_map.html / .png
 │   ├── figure3_terrestrial_relative_abundance_ranked.png
 │   ├── figure4_marine_vs_terrestrial_comparison.png
 │   ├── figure5_malaspina_paired_comparison.png
