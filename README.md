@@ -9,13 +9,9 @@
 
 ## The Problem
 
-In marine and intertidal sediments, microbial communities face sharply fluctuating nutrient availability — tidal cycles, seasonal shifts, chronic hydrocarbon pollution. Under these conditions, the ability to synthesize and store neutral lipids (triacylglycerols and wax esters, as a carbon and energy reserve) can be an adaptive advantage.
+The oleochemical industry (biofuels, lubricants, bioplastics) needs new biocatalysts to replace petroleum-derived feedstocks. Most of that enzymatic diversity sits in bacteria that have never been grown in a lab — the classic bottleneck for enzyme bioprospecting.
 
-Beyond their ecological role, these same molecules are key oleochemical platforms: their long hydrocarbon chains and physicochemical stability make them precursors for biodiesel and other biofuels, as well as biodegradable lubricants, industrial waxes, and bioplastics — renewable alternatives to petroleum-derived products. The enzymes catalyzing their final biosynthetic step, wax ester synthase/acyl-CoA:diacylglycerol acyltransferases (WS/DGAT), are therefore of direct biotechnological interest as targets for bioprospecting.
-
-Characterizing this potential at the community level is not straightforward with culture-based methods alone: they are biased toward a small, non-representative fraction of culturable taxa and systematically miss most of the diversity present in situ.
-
-**This project applies a computational metagenomics pipeline — culture-independent and unbiased by cultivability — to survey WS/DGAT genes (Pfam PF03007) across marine and terrestrial metagenomes and thousands of bacterial reference genomes, at a scale and taxonomic breadth culture-based approaches cannot reach.**
+**This project bypasses that bottleneck with computational metagenomics: mining large public sequence datasets — marine and terrestrial metagenomes and 18,000+ bacterial genomes — for a target biocatalyst (WS/DGAT enzyme family) at a scale no wet-lab screen could match.**
 
 ---
 
@@ -110,4 +106,16 @@ Subtidal sediment metagenomes are publicly available at the **Integrated Microbi
 | ANT01 | Antarctic | S1 | Subtidal sediments | 3300000119 |
 | ANT02 | Antarctic | S1 | Subtidal sediments | 3300000136 |
 | ANT03 | Antarctic | S1 | Subtidal sediments | 3300000135 |
-| ANT04 | Antarctic | S1 | Subtidal sediments | 33
+| ANT04 | Antarctic | S1 | Subtidal sediments | 3300000129 |
+| ANT05 | Antarctic | S1 | Subtidal sediments | 3300000132 |
+| ANT06 | Antarctic | S1 | Subtidal sediments | 3300000123 |
+| OR07 | Subantarctic | OR | Intertidal sediments | — (see note) |
+
+> **OR07:** in-house metagenomic library from a chronically hydrocarbon-contaminated intertidal site (Bahía Ushuaia, Argentina). Raw sequence data are not publicly available. WS/DGAT homolog sequences identified from this library were deposited in GenBank under accession numbers **OP731433–OP731569**.
+
+### Where the counts come from
+
+Gene counts were obtained by searching each metagenome for Pfam domain hits via **IMG/M**:
+
+- **PF03007** (WS/DGAT domain): identifies putative neutral lipid biosynthesis genes
+- **12 single-copy ribosomal protein domains** (PF00189, PF00252, PF00453, PF00542, PF00831, PF00886, PF01016, PF01196, PF01245, PF01250, PF01281, PF01649): used as reference markers to n
