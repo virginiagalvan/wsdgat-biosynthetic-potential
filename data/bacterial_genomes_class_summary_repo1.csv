@@ -1,0 +1,44 @@
+Phylum,Class,N genomes (>=1 PF03007 copy),Mean PF03007 copies per genome,Max PF03007 copies per genome,Taxonomic group
+Actinomycetota,Actinomycetes,10053,6.94,31,Terrabacteria group
+Pseudomonadota,Gammaproteobacteria,3987,1.41,17,Pseudomonadota
+Actinomycetota,unclassified (Actinomycetota),1827,1.61,13,Terrabacteria group
+Pseudomonadota,Alphaproteobacteria,1274,1.22,9,Pseudomonadota
+Pseudomonadota,Betaproteobacteria,720,1.55,11,Pseudomonadota
+Myxococcota,Myxococcia,163,1.27,8,Other bacterial phyla
+Rhodothermota,Rhodothermia,120,1.02,2,FCB group
+Bacteroidota,Flavobacteriia,56,1.25,7,FCB group
+Actinomycetota,Thermoleophilia,30,4.2,9,Terrabacteria group
+Myxococcota,unclassified (Myxococcota),28,1.61,7,Other bacterial phyla
+Actinomycetota,Acidimicrobiia,23,3.91,10,Terrabacteria group
+Chloroflexota,unclassified (Chloroflexota),12,1.0,1,Terrabacteria group
+Acidobacteriota,unclassified (Acidobacteriota),10,1.5,2,Acidobacteriota
+Pseudomonadota,unclassified (Pseudomonadota),9,2.22,5,Pseudomonadota
+Thermodesulfobacteriota,Desulfobacteria,8,1.62,3,Other bacterial phyla
+Actinomycetota,Nitriliruptoria,8,2.62,4,Terrabacteria group
+Chloroflexota,Anaerolineae,7,1.29,2,Terrabacteria group
+Bacillota,Bacilli,7,2.57,8,Terrabacteria group
+Chloroflexota,Caldilineae,5,1.6,3,Terrabacteria group
+Bacteroidota,Bacteroidia,4,2.5,5,FCB group
+Chloroflexota,Chloroflexia,4,2.25,4,Terrabacteria group
+Chloroflexota,Dehalococcoidia,4,1.0,1,Terrabacteria group
+Cyanobacteriota,Cyanophyceae,3,1.0,1,Terrabacteria group
+Acidobacteriota,Holophagae,3,1.0,1,Acidobacteriota
+Deinococcota,Deinococci,3,1.33,2,Other bacterial phyla
+Bacteroidota,Cytophagia,3,1.0,1,FCB group
+Acidobacteriota,Terriglobia,3,1.67,3,Acidobacteriota
+Gemmatimonadota,Gemmatimonadia,2,1.0,1,FCB group
+Thermodesulfobacteriota,Syntrophobacteria,2,2.0,3,Other bacterial phyla
+Acidobacteriota,Vicinamibacteria,1,1.0,1,Acidobacteriota
+Actinobacteria,Actinomycetia,1,1.0,1,Terrabacteria group
+Armatimonadota,unclassified (Armatimonadota),1,2.0,2,Terrabacteria group
+Bacteroidota,Saprospiria,1,1.0,1,FCB group
+Bacteroidota,unclassified (Bacteroidota),1,2.0,2,FCB group
+Bacteroidota,Sphingobacteriia,1,1.0,1,FCB group
+Candidatus Hydrogenedentota,unclassified (Candidatus Hydrogenedentota),1,1.0,1,FCB group
+Candidatus Eiseniibacteriota,unclassified (Candidatus Eiseniibacteriota),1,1.0,1,Other bacterial phyla
+Chloroflexota,Ardenticatenia,1,3.0,3,Terrabacteria group
+Candidatus Altimarinota,unclassified (Candidatus Altimarinota),1,1.0,1,Other bacterial phyla
+Planctomycetota,unclassified (Planctomycetota),1,1.0,1,Other bacterial phyla
+Planctomycetota,Planctomycetia,1,1.0,1,Other bacterial phyla
+Planctomycetota,Candidatus Uabimicrobiia,1,1.0,1,Other bacterial phyla
+Spirochaetota,Spirochaetia,1,3.0,3,Other bacterial phyla

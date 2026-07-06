@@ -1,0 +1,14 @@
+metagenome_id,region,site,lat,lon
+ARG01,"Ushuaia Bay, Tierra del Fuego, Argentina",MC (subtidal),-54.810933,-68.295517
+ARG02,"Ushuaia Bay, Tierra del Fuego, Argentina",MC (subtidal),-54.810933,-68.295517
+ARG03,"Ushuaia Bay, Tierra del Fuego, Argentina",MC (subtidal),-54.810933,-68.295517
+ARG04,"Ushuaia Bay, Tierra del Fuego, Argentina",OR (subtidal),-54.804267,-68.288267
+ARG05,"Ushuaia Bay, Tierra del Fuego, Argentina",OR (subtidal),-54.804267,-68.288267
+ARG06,"Ushuaia Bay, Tierra del Fuego, Argentina",OR (subtidal),-54.804267,-68.288267
+OR07,"Ushuaia Bay, Tierra del Fuego, Argentina",OR (intertidal),-54.804633,-68.2899
+ANT01,"Potter Cove, 25 de Mayo Island, Antarctica",S1 (subtidal),-62.23055,-58.656117
+ANT02,"Potter Cove, 25 de Mayo Island, Antarctica",S1 (subtidal),-62.23055,-58.656117
+ANT03,"Potter Cove, 25 de Mayo Island, Antarctica",S1 (subtidal),-62.23055,-58.656117
+ANT04,"Potter Cove, 25 de Mayo Island, Antarctica",S2 (subtidal),-62.23195,-58.655
+ANT05,"Potter Cove, 25 de Mayo Island, Antarctica",S2 (subtidal),-62.23195,-58.655
+ANT06,"Potter Cove, 25 de Mayo Island, Antarctica",S2 (subtidal),-62.23195,-58.655

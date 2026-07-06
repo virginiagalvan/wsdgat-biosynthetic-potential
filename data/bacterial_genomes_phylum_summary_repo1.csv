@@ -1,0 +1,20 @@
+Phylum,N genomes (>=1 PF03007 copy),Mean PF03007 copies per genome,Max PF03007 copies per genome,Taxonomic group
+Actinomycetota,11941,6.11,31,Terrabacteria group
+Pseudomonadota,5990,1.39,17,Pseudomonadota
+Myxococcota,191,1.32,8,Other bacterial phyla
+Rhodothermota,120,1.02,2,FCB group
+Bacteroidota,66,1.32,7,FCB group
+Chloroflexota,33,1.36,4,Terrabacteria group
+Acidobacteriota,17,1.41,3,Acidobacteriota
+Thermodesulfobacteriota,10,1.7,3,Other bacterial phyla
+Bacillota,7,2.57,8,Terrabacteria group
+Deinococcota,3,1.33,2,Other bacterial phyla
+Cyanobacteriota,3,1.0,1,Terrabacteria group
+Planctomycetota,3,1.0,1,Other bacterial phyla
+Gemmatimonadota,2,1.0,1,FCB group
+Actinobacteria,1,1.0,1,Terrabacteria group
+Candidatus Altimarinota,1,1.0,1,Other bacterial phyla
+Candidatus Eiseniibacteriota,1,1.0,1,Other bacterial phyla
+Candidatus Hydrogenedentota,1,1.0,1,FCB group
+Armatimonadota,1,2.0,2,Terrabacteria group
+Spirochaetota,1,3.0,3,Other bacterial phyla

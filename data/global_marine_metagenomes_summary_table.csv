@@ -1,0 +1,102 @@
+Rank,Metagenome ID,Study,Latitude,Longitude,Rel. abundance (mean),Rel. abundance (SD),N valid ratios,Tier
+1,3300022306,"Estuarine microbial communities from the San Francisco Bay-Delta (SFBD), California, United States",37.7,-122.34,3.056,0.411,12,high
+2,3300022308,"Estuarine microbial communities from the San Francisco Bay-Delta (SFBD), California, United States",37.7,-122.34,3.017,0.385,12,high
+3,3300022206,"Estuarine microbial communities from the San Francisco Bay-Delta (SFBD), California, United States",37.7,-122.34,2.973,0.435,12,high
+4,3300048070,Marine and freshwater sediment microbial communities from various locations,39.9902,51.5008,2.813,0.323,12,high
+5,3300022213,"Estuarine microbial communities from the San Francisco Bay-Delta (SFBD), California, United States",38.05,-121.934,2.789,0.309,12,high
+6,3300048494,Marine and freshwater sediment microbial communities from various locations,39.9902,51.5008,2.695,0.353,12,high
+7,3300022220,"Estuarine microbial communities from the San Francisco Bay-Delta (SFBD), California, United States",37.79,-122.36,2.657,0.281,12,high
+8,3300048056,Marine and freshwater sediment microbial communities from various locations,39.9902,51.5008,2.641,0.337,12,high
+9,3300048057,Marine and freshwater sediment microbial communities from various locations,39.9902,51.5008,2.621,0.272,12,high
+10,3300022413,"Estuarine microbial communities from the San Francisco Bay-Delta (SFBD), California, United States",37.79,-122.36,2.516,0.305,12,high
+11,3300022214,"Estuarine microbial communities from the San Francisco Bay-Delta (SFBD), California, United States",38.05,-121.934,2.446,0.288,12,high
+12,3300022217,"Estuarine microbial communities from the San Francisco Bay-Delta (SFBD), California, United States",37.7,-122.34,2.276,0.288,12,high
+13,3300038945,"Marine sediment microbial communities from Mesquite Bay, Texas, USA",28.147,-96.8455,2.27,0.124,12,high
+14,3300048495,Marine and freshwater sediment microbial communities from various locations,39.9902,51.5008,2.163,0.357,12,high
+15,3300041087,"Marine sediment microbial communities from Bohai Sea, China",38.6675,119.5475,2.144,0.144,12,high
+16,3300041078,"Marine sediment microbial communities from Bohai Sea, China",39.692778,120.660556,2.108,0.157,12,high
+17,3300022201,"Estuarine microbial communities from the San Francisco Bay-Delta (SFBD), California, United States",37.79,-122.36,2.086,0.284,12,high
+18,3300041076,"Marine sediment microbial communities from Bohai Sea, China",38.6675,119.5475,2.057,0.141,12,high
+19,3300041084,"Marine sediment microbial communities from Bohai Sea, China",39.692778,120.660556,2.056,0.227,12,high
+20,3300038765,"Marine sediment microbial communities from Mesquite Bay, Texas, USA",28.147,-96.8455,2.037,0.163,12,high
+21,3300032110,Microbial communities from the deep biosphere,22.755,-46.081,2.034,0.76,12,high
+22,3300048990,Marine and freshwater sediment microbial communities from various locations,39.9902,51.5008,1.956,0.243,12,medium
+23,3300041083,"Marine sediment microbial communities from Bohai Sea, China",39.692778,120.660556,1.856,0.179,12,medium
+24,3300041081,"Marine sediment microbial communities from Bohai Sea, China",38.6675,119.5475,1.798,0.107,12,medium
+25,3300022218,"Estuarine microbial communities from the San Francisco Bay-Delta (SFBD), California, United States",38.03,-122.37,1.756,0.236,12,medium
+26,3300022202,"Estuarine microbial communities from the San Francisco Bay-Delta (SFBD), California, United States",37.79,-122.36,1.717,0.264,12,medium
+27,3300060480,Marine and freshwater sediment microbial communities from various locations,,,1.713,0.126,12,medium
+28,3300022226,"Estuarine microbial communities from the San Francisco Bay-Delta (SFBD), California, United States",38.03,-122.37,1.707,0.159,12,medium
+29,3300022309,"Estuarine microbial communities from the San Francisco Bay-Delta (SFBD), California, United States",38.05,-121.934,1.639,0.179,12,medium
+30,3300041079,"Marine sediment microbial communities from Bohai Sea, China",39.692778,120.660556,1.626,0.204,12,medium
+31,3300048058,Marine and freshwater sediment microbial communities from various locations,31.971,30.142,1.57,0.298,12,medium
+32,3300044504,Sediment microbial communities from various environments and locations in Europe,58.8444,17.795,1.483,0.145,12,medium
+33,3300051646,Sediment microbial communities from various environments and locations in Europe,58.8444,17.795,1.436,0.141,12,medium
+34,3300022209,"Estuarine microbial communities from the San Francisco Bay-Delta (SFBD), California, United States",38.03,-122.37,1.342,0.159,12,medium
+35,3300044482,Sediment microbial communities from various environments and locations in Europe,58.9344,17.7391,1.198,0.122,12,medium
+36,3300022307,"Estuarine microbial communities from the San Francisco Bay-Delta (SFBD), California, United States",38.03,-122.37,1.157,0.148,12,medium
+37,3300048055,Marine and freshwater sediment microbial communities from various locations,39.7455,50.4806,1.14,0.135,12,medium
+38,3300041080,"Marine sediment microbial communities from Bohai Sea, China",39.692778,120.660556,1.106,0.109,12,medium
+39,3300042534,Sediment microbial communities from various environments and locations in Europe,59.0386,17.7277,1.09,0.112,12,medium
+40,3300051645,Sediment microbial communities from various environments and locations in Europe,59.0386,17.7277,1.079,0.112,12,medium
+41,3300041086,"Marine sediment microbial communities from Bohai Sea, China",39.692778,120.660556,1.067,0.134,12,medium
+42,3300046044,Sediment microbial communities from various environments and locations in Europe,59.0386,17.7277,1.065,0.148,12,medium
+43,3300042902,Sediment microbial communities from various environments and locations in Europe,58.9344,17.7391,1.043,0.099,12,medium
+44,3300038831,"Marine sediment microbial communities from Mesquite Bay, Texas, USA",28.147,-96.8455,1.036,0.11,12,medium
+45,3300051647,Sediment microbial communities from various environments and locations in Europe,58.9344,17.7391,1.03,0.099,12,medium
+46,3300022204,"Estuarine microbial communities from the San Francisco Bay-Delta (SFBD), California, United States",38.03,-122.15,1.026,0.104,12,medium
+47,3300038943,"Marine sediment microbial communities from Mesquite Bay, Texas, USA",28.147,-96.8455,1.022,0.099,12,medium
+48,3300052963,Sediment microbial communities from various environments and locations in Europe,59.0386,17.7277,1.01,0.138,12,medium
+49,3300035452,Microbial communities from sediments and seawater samples from Gulf of Mexico,25.6528081,-95.5731,0.999,0.302,12,low
+50,3300041082,"Marine sediment microbial communities from Bohai Sea, China",38.6675,119.5475,0.994,0.129,12,low
+51,3300048840,Marine and freshwater sediment microbial communities from various locations,39.7455,50.4806,0.989,0.148,12,low
+52,3300039230,Microbial communities from sediments and seawater samples from Gulf of Mexico,20.5965167,-94.3132,0.985,0.34,12,low
+53,3300048059,Marine and freshwater sediment microbial communities from various locations,31.971,30.142,0.914,0.153,12,low
+54,3300038502,Microbial communities from sediments and seawater samples from Gulf of Mexico,20.5965167,-94.3132,0.904,0.226,12,low
+55,3300038794,Microbial communities from sediments and seawater samples from Gulf of Mexico,19.1713,-93.3,0.904,0.226,12,low
+56,3300048496,Marine and freshwater sediment microbial communities from various locations,31.971,30.142,0.848,0.12,12,low
+57,3300052937,Sediment microbial communities from various environments and locations in Europe,58.8444,17.795,0.777,0.117,12,low
+58,3300042536,Sediment microbial communities from various environments and locations in Europe,58.8444,17.795,0.773,0.114,12,low
+59,3300039087,Microbial communities from sediments and seawater samples from Gulf of Mexico,20.7404,-94.77106,0.74,0.193,12,low
+60,3300022223,"Estuarine microbial communities from the San Francisco Bay-Delta (SFBD), California, United States",38.03,-122.15,0.733,0.1,12,low
+61,3300049891,San Juan Bay Estuary Surface Sediment Microbiome,18.428443,-66.03548,0.694,0.075,12,low
+62,3300048498,Marine and freshwater sediment microbial communities from various locations,31.971,30.142,0.669,0.164,12,low
+63,3300009968,Deep sea sediment microbial communities from the Gulf of Mexico,27.0,-88.0,0.654,0.294,12,low
+64,3300041077,"Marine sediment microbial communities from Bohai Sea, China",38.6675,119.5475,0.62,0.07,12,low
+65,3300041085,"Marine sediment microbial communities from Bohai Sea, China",38.6675,119.5475,0.579,0.085,12,low
+66,3300008464,Deep sea sediment microbial communities from the Gulf of Mexico,27.0,-88.0,0.559,0.094,12,low
+67,3300022693,"Deep seafloor sediment microbial communities from Yap Trench, western Pacific Ocean",9.866,138.493,0.556,0.073,12,low
+68,3300060479,Marine and freshwater sediment microbial communities from various locations,,,0.543,0.08,12,low
+69,3300022221,"Estuarine microbial communities from the San Francisco Bay-Delta (SFBD), California, United States",38.03,-122.15,0.535,0.067,12,low
+70,3300031984,Microbial communities from the deep biosphere,11.2811,93.1,0.483,0.172,12,low
+71,3300032106,Microbial communities from the deep biosphere,22.8,-46.05,0.471,0.074,12,low
+72,3300048060,Marine and freshwater sediment microbial communities from various locations,31.971,30.142,0.406,0.056,12,low
+73,3300010933,"Marine sediment microbial communities from North Pond, Atlantic Mid-Ocean Ridge.",22.8,-46.05,0.38,0.059,12,low
+74,3300035560,Microbial communities from sediments and seawater samples from Gulf of Mexico,19.9309,-94.3391,0.361,0.081,12,low
+75,3300032104,Microbial communities from the deep biosphere,22.81,-46.09,0.359,0.07,12,low
+76,3300048497,Marine and freshwater sediment microbial communities from various locations,31.971,30.142,0.355,0.072,12,low
+77,3300008463,Deep sea sediment microbial communities from the Gulf of Mexico,28.0,-88.0,0.299,0.072,12,low
+78,3300049890,San Juan Bay Estuary Surface Sediment Microbiome,18.428886,-66.042212,0.296,0.053,12,low
+79,3300010939,"Marine sediment microbial communities from North Pond, Atlantic Mid-Ocean Ridge.",22.81,-46.09,0.293,0.038,12,low
+80,3300048537,Marine and freshwater sediment microbial communities from various locations,31.971,30.142,0.284,0.068,12,low
+81,3300022208,"Estuarine microbial communities from the San Francisco Bay-Delta (SFBD), California, United States",38.05,-121.934,0.278,0.023,12,low
+82,3300043819,Sediment microbial communities from various environments and locations in Europe,58.9344,17.7391,0.248,0.123,12,low
+83,3300051643,Sediment microbial communities from various environments and locations in Europe,58.9344,17.7391,0.247,0.122,12,low
+84,3300010931,"Marine sediment microbial communities from North Pond, Atlantic Mid-Ocean Ridge.",22.8,-46.05,0.24,0.028,12,low
+85,3300022670,"Deep seafloor sediment microbial communities from Yap Trench, western Pacific Ocean",9.64505,138.82083,0.236,0.042,12,low
+86,3300023219,Microbial communities of deep seafloor calcareous sediment with volcaniclastic crumbs from southwestern Indian Ocean,-35.93333,52.98333,0.224,0.056,12,low
+87,3300023443,Microbial communities of deep seafloor calcareous sediment with volcaniclastic crumbs from southwestern Indian Ocean,-38.75,47.41667,0.213,0.044,12,low
+88,3300032105,Microbial communities from the deep biosphere,22.8,-46.05,0.191,0.023,12,low
+89,3300023223,Microbial communities of deep seafloor calcareous sediment with volcaniclastic crumbs from southwestern Indian Ocean,-35.96667,52.98333,0.186,0.052,12,low
+90,3300023185,Microbial communities of deep seafloor calcareous sediment with volcaniclastic crumbs from southwestern Indian Ocean,-37.83333,49.8,0.179,0.064,12,low
+91,3300022205,"Estuarine microbial communities from the San Francisco Bay-Delta (SFBD), California, United States",38.03,-122.15,0.175,0.031,12,low
+92,3300022665,"Deep seafloor sediment microbial communities from Yap Trench, western Pacific Ocean",9.661117,138.68097,0.149,0.025,12,low
+93,3300023284,Microbial communities of deep seafloor calcareous sediment with volcaniclastic crumbs from southwestern Indian Ocean,-37.78333,49.71667,0.127,0.023,12,low
+94,3300023222,Microbial communities of deep seafloor calcareous sediment with volcaniclastic crumbs from southwestern Indian Ocean,-38.78333,47.51667,0.108,0.037,12,low
+95,3300022707,"Deep seafloor sediment microbial communities from Yap Trench, western Pacific Ocean",9.865,138.656,0.095,0.019,12,low
+96,3300031983,Microbial communities from the deep biosphere,11.2811,93.1,0.08,0.017,12,low
+97,3300022538,"Abyssal plain sediment microbial communities from Eastern Gulf of Mexico, Atlantic Ocean",25.3043,-90.0659,0.049,0.008,12,low
+98,3300022539,"Abyssal plain sediment microbial communities from Eastern Gulf of Mexico, Atlantic Ocean",25.3043,-90.0659,0.049,0.008,12,low
+99,3300022535,"Abyssal plain sediment microbial communities from Eastern Gulf of Mexico, Atlantic Ocean",25.3043,-90.0659,0.034,0.006,12,low
+100,3300022690,"Deep seafloor sediment microbial communities from Yap Trench, western Pacific Ocean",9.898601,138.3861,0.02,0.008,12,low
+101,3300022537,"Abyssal plain sediment microbial communities from Eastern Gulf of Mexico, Atlantic Ocean",25.3043,-90.0659,0.02,0.004,12,low

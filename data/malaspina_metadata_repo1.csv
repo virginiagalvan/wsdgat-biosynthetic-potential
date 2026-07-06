@@ -1,0 +1,51 @@
+sample_code,metagenome_id,station,fraction,ocean,basin,watermass,depth_m,latitude,longitude,sequencing_depth_gbp,cds_count
+MP0103,3300001060,7.0,free_living,Atlantic,Canary basin,NADW,-4005.0,21.51,-23.45,3.54,99630
+MP0104,3300001054,7.0,particle_attached,Atlantic,Canary basin,NADW,-4005.0,21.51,-23.45,3.46,54636
+MP0145,3300000966,10.0,free_living,Atlantic,Canary basin,NADW,-4002.0,14.52,-26.0,1.52,35227
+MP0144,3300000967,10.0,particle_attached,Atlantic,Canary basin,NADW,-4002.0,14.52,-26.0,2.03,21472
+MP0204,3300001125,13.0,free_living,Atlantic,Canary basin,NADW,-4003.0,7.33,-26.0,3.5,101738
+MP0203,3300001091,13.0,particle_attached,Atlantic,Canary basin,NADW,-4003.0,7.33,-26.0,3.4,91495
+MP0262,3300001574,17.0,free_living,Atlantic,Brazil basin,NADW,-4002.0,-3.03,-27.33,3.92,46106
+MP0261,3300001122,17.0,particle_attached,Atlantic,Brazil basin,NADW,-4002.0,-3.03,-27.33,3.17,44985
+MP0327,3300001106,20.0,free_living,Atlantic,Brazil basin,NADW,-4001.0,-9.12,-30.19,3.64,74269
+MP0326,3300001013,20.0,particle_attached,Atlantic,Brazil basin,NADW,-4001.0,-9.12,-30.19,2.58,37209
+MP0372,3300001068,23.0,free_living,Atlantic,Brazil basin,NADW,-4003.0,-15.83,-33.41,5.08,116803
+MP0371,3300000984,23.0,particle_attached,Atlantic,Brazil basin,NADW,-4003.0,-15.83,-33.41,4.24,39368
+MP0441,3300000950,26.0,free_living,Atlantic,Brazil basin,WSDW,-3907.0,-22.97,-36.95,3.2,93702
+MP0440,3300001126,26.0,particle_attached,Atlantic,Brazil basin,WSDW,-3907.0,-22.97,-36.95,3.39,50663
+MP0556,3300001063,32.0,free_living,Atlantic,Brazil basin,NADW,-3199.0,-26.91,-21.43,3.1,75838
+MP0555,3300000946,32.0,particle_attached,Atlantic,Brazil basin,NADW,-3199.0,-26.91,-21.43,3.15,47428
+MP0627,3300000995,35.0,free_living,Atlantic,Out of basins,NADW,-3662.0,-28.62,-11.8,2.48,37959
+MP0626,3300001578,35.0,particle_attached,Atlantic,Out of basins,NADW,-3662.0,-28.62,-11.8,3.14,28273
+MP0740,3300001579,41.0,free_living,Atlantic,Agulhas-Cape basin,NADW,-4001.0,-31.81,6.84,3.22,87400
+MP0739,3300000994,41.0,particle_attached,Atlantic,Agulhas-Cape basin,NADW,-4001.0,-31.81,6.84,1.34,12720
+MP0759,3300001581,43.0,free_living,Atlantic,Agulhas-Cape basin,WSDW,-3900.0,-32.8128,12.7692,3.39,99081
+MP0758,3300001006,43.0,particle_attached,Atlantic,Agulhas-Cape basin,WSDW,-3900.0,-32.8128,12.7692,2.46,15995
+MP0901,3300001058,50.0,free_living,Indian,Agulhas-Cape basin,WSDW,-4002.0,-33.55,39.89,3.11,96321
+MP0900,3300001572,50.0,particle_attached,Indian,Agulhas-Cape basin,WSDW,-4002.0,-33.55,39.89,2.96,65064
+MP0960,3300001569,53.0,free_living,Indian,Madagascar basin,CDW,-3500.0,-27.9783,63.2478,3.43,156334
+MP0959,3300000975,53.0,particle_attached,Indian,Madagascar basin,CDW,-3500.0,-27.9783,63.2478,3.6,50663
+MP1092,3300000974,59.0,free_living,Indian,Mid Indian basin,CDW,-4000.0,-29.81,82.62,2.76,66185
+MP1091,3300001118,59.0,particle_attached,Indian,Mid Indian basin,CDW,-4000.0,-29.81,82.62,3.23,31214
+MP1141,3300001129,62.0,free_living,Indian,Out of basins,CDW,-2400.0,-29.6525,92.9852,4.0,46639
+MP1140,3300000978,62.0,particle_attached,Indian,Out of basins,CDW,-2400.0,-29.6525,92.9852,3.11,3274
+MP1202,3300001046,65.0,free_living,Indian,South Australian basin,WSDW,-4001.0,-30.3327,103.3075,3.67,87471
+MP1201,3300000981,65.0,particle_attached,Indian,South Australian basin,WSDW,-4001.0,-30.3327,103.3075,2.94,30083
+MP1483,3300001573,81.0,free_living,Pacific,Fiji basin,CDW,-3501.0,-28.4063,179.1413,3.36,63056
+MP1482,3300001016,81.0,particle_attached,Pacific,Fiji basin,CDW,-3501.0,-28.4063,179.1413,3.2,39130
+MP1494,3300000999,82.0,free_living,Pacific,Out of basins,CDW,-2150.0,-25.49,-179.52,2.01,25909
+MP1493,3300001571,82.0,particle_attached,Pacific,Out of basins,CDW,-2150.0,-25.49,-179.52,3.36,38276
+MP1788,3300001582,97.0,free_living,Pacific,Pacific basin,CDW,-3818.0,9.22,-163.53,3.95,120638
+MP1787,3300001115,97.0,particle_attached,Pacific,Pacific basin,CDW,-3818.0,9.22,-163.53,3.0,77546
+MP2053,3300001576,112.0,free_living,Pacific,Pacific basin,CDW,-4002.0,15.9087,-124.4738,2.3,55244
+MP2052,3300000971,112.0,particle_attached,Pacific,Pacific basin,CDW,-4002.0,15.9087,-124.4738,2.69,50723
+MP2159,3300001049,118.0,free_living,Pacific,Pacific basin,CDW,-3103.0,12.0,-108.06,3.29,61797
+MP2158,3300001051,118.0,particle_attached,Pacific,Pacific basin,CDW,-3103.0,12.0,-108.06,3.14,35019
+MP2253,3300001121,121.0,free_living,Pacific,Guatemala basin,CDW,-3008.0,10.0927,-99.2462,3.59,69828
+MP2252,3300001113,121.0,particle_attached,Pacific,Guatemala basin,CDW,-3008.0,10.0927,-99.2462,3.79,69436
+MP2634,3300001587,134.0,free_living,Atlantic,North American basin,NADW,-4003.0,19.9897,-52.6367,5.9,159903
+MP2633,3300001127,134.0,particle_attached,Atlantic,North American basin,NADW,-4003.0,19.9897,-52.6367,5.68,119331
+MP2914,3300001575,144.0,free_living,Atlantic,Canary basin,NADW,-4003.0,29.97,-23.69,4.6,130847
+MP2913,3300001585,144.0,particle_attached,Atlantic,Canary basin,NADW,-4003.0,29.97,-23.69,4.64,103285
+MP2969,3300001123,146.0,free_living,Atlantic,Canary basin,NADW,-4002.0,32.0788,-17.2662,4.79,119653
+MP2968,3300000982,146.0,particle_attached,Atlantic,Canary basin,NADW,-4002.0,32.0788,-17.2662,4.11,27772
